@@ -57,3 +57,5 @@ stripchat.com
 *.stripchat.com
 instragg.online
 *.instragg.online
+agoaticart.co.in
+*.agoaticart.co.in
